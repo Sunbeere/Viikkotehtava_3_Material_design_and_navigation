@@ -5,7 +5,7 @@ const SecondScreen = () => {
 
     return (
         <View style={styles.container}>
-            <Text style={styles.text}>This is the Second Screen!</Text>
+            <Text style={styles.text}>SecondScreen</Text>
         </View>
     );
 };

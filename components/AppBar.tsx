@@ -10,7 +10,7 @@ const MyAppBar = ({ navigation, back }: NativeStackHeaderProps) => {
 
             ) : null}
           
-            <Appbar.Content title="Mun sovellus" />
+            <Appbar.Content title="MD Nav Demo" />
 
               {!back ? (
                 <Appbar.Action
